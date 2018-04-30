@@ -12,4 +12,3 @@ def comparing_lists(list_one, list_two):
     else:
         print "They are not the same"
 comparing_lists(['celery','carrots','bread','milk'], ['celery','carrots','bread','milk'])
-    
